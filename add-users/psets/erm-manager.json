@@ -24,6 +24,7 @@
   "Local KB admin: View proxy server configuration",
   "Local KB admin: View remote KB configuration",
   "Local KB admin: Manage remote KB configuration",
+  "Local KB: change package synchronisation status",
   "Notes: Can assign and unassign a note",
   "Notes: Can create a note",
   "Notes: Can delete a note",
